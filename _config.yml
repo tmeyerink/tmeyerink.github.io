@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: Tara's Blog
 header-img: img/home-bg.png
 email: tarajmeyerink@gmail.com
 copyright_name: tmeyerink
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Always learning, never taking a break
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  tmeyerink
